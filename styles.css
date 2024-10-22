@@ -1,0 +1,16 @@
+button {
+    background-color: green;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    border: none;
+    border-radius: 20px;
+}
+
+.add_task_button{
+    background-color: green;
+}
+
+.delete_task_button{
+    background-color: red;
+}
